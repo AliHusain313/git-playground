@@ -1,7 +1,7 @@
-conflict here hello
+here hello
 here hello conflict
 1hello
 updated this file on github
 added new text
-conflict here hello
+here hello
 Trying pull
