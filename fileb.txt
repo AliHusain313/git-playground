@@ -1,3 +1,3 @@
-this is a new file conflict merge tool
+this is a new file conflict merge tools
 just adding a few lines
 save and close
