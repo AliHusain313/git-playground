@@ -1,6 +1,6 @@
-hello
+conflict here hello
 hello
 updated this file on github
 added new text
-hello
+conflict here hello
 Trying pull
