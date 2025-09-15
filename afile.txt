@@ -1,4 +1,4 @@
-conflict here hello
+conflict1 here hello
 hello
 updated this file on github
 added new text
