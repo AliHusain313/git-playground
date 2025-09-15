@@ -1,4 +1,5 @@
 conflict1 here hello
+here hello conflict
 hello
 updated this file on github
 added new text
